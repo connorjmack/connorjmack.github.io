@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Connor J Mack"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Graduate Student"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Scripps Institution of Oceanography "
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "cjmack@ucsd.edu" 
 
   # Academic websites
   academia         : # URL
