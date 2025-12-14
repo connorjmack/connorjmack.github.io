@@ -23,7 +23,7 @@ repository               : "connorjmack/connorjmack.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "sunset.jpg" # filename of avatar image placed in /images/ for author profile
+  avatar           : "profile.jpg" # filename of avatar image placed in /images/ for author profile
   name             : "CJM"
   pronouns         : # example: "she/her"  
   bio              : "Graduate Student"
