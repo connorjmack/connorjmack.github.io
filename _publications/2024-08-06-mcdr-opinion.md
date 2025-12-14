@@ -2,10 +2,10 @@
 title: "Smart regulations needed for promising marine carbon removal"
 collection: publications
 permalink: /publication/2024-marine-carbon-opinion
-excerpt: 'Opinion piece arguing that marine carbon dioxide removal companies should be required to structure as public benefit corporations to ensure responsible ocean stewardship.'
+excerpt: 'Opinion piece...'
 date: 2024-08-26
 venue: 'San Diego Union-Tribune'
-category: 'opinion'
+category: 'opeds'  # Changed from 'opinion' to 'opeds'
 paperurl: 'https://www.sandiegouniontribune.com/2024/08/26/opinion-smart-regulations-needed-for-promising-marine-carbon-removal/'
 citation: 'Mack, C. (2024). "Smart regulations needed for promising marine carbon removal." <i>San Diego Union-Tribune</i>. Opinion/Commentary.'
 ---
