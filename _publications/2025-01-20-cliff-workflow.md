@@ -1,11 +1,11 @@
----
----
+---  # Remove the duplicate ---
 title: "Automated Detection of Coastal Cliff Change Using LiDAR"
 collection: publications
 permalink: /publication/cliff-workflow
 excerpt: 'Coastal cliff erosion detection workflow'
 date: 2024-06-15
 venue: 'Computers & Geosciences'
+category: 'manuscripts'  # ADD THIS LINE
 paperurl: 'http://yourlink.com/paper.pdf'
 citation: 'Mack, C.J., et al. (2026). "Automated Detection of Coastal Cliff Change." <i>Computers & Geosciences</i>.'
 ---
