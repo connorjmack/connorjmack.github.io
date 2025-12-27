@@ -1,13 +1,13 @@
----  # Remove the duplicate ---
+---
 title: "The scalability and carbon removal potential of ocean alkalinity enhancement"
 collection: publications
 permalink: /publication/2024-oae-scalability
-excerpt: '...'
+excerpt: ''
 date: 2024-12-01
-venue: 'Research Square (Preprint - Under Review at Nature Portfolio)'
-category: 'preprints'  # ADD THIS LINE
+venue: 'Nature Communications (Under Review)'
+category: 'preprints'
 paperurl: 'https://doi.org/10.21203/rs.3.rs-7956805/v1'
-citation: 'Mack, C., Hanna, R., Dias, D., & Victor, D. (2024). "The scalability and carbon removal potential of ocean alkalinity enhancement." <i>Research Square</i>. [Preprint]'
+citation: 'Mack, C.J., Hanna, R., Faggiani-Dias, D., & Victor, D.G. "The Scalability and Carbon Removal Potential of Ocean Alkalinity Enhancement." <i>Nature Communications</i> (Under Review). Pre-print: doi.org/10.21203/rs.3.rs-7956805/v1'
 ---
 
 ## Abstract
