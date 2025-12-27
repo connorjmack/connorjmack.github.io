@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/cjmack/Documents/Website/connorjmack.github.io log --oneline -10)",
+      "Bash(git -C /Users/cjmack/Documents/Website/connorjmack.github.io status)"
+    ]
+  }
+}

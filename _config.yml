@@ -8,16 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-<<<<<<< HEAD
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Connor J Mack"
-=======
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
->>>>>>> upstream/master
+title                    : "Connor J Mack"
 title_separator          : "-"
 name                     : &name "Connor J Mack"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Connor J Mack's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://connorjmack.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -28,7 +23,7 @@ repository               : "connorjmack/connorjmack.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg" # filename of avatar image placed in /images/ for author profile
+  avatar           : "profile.png" # filename of avatar image placed in /images/ for author profile
   name             : "CJM"
   pronouns         : # example: "she/her"  
   bio              : "Graduate Student"
