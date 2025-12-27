@@ -32,5 +32,11 @@ author_profile: true
   {% endfor %}
 {% endif %}
 
+<!-- Talks Section -->
+<h2>Talks & Presentations</h2><hr />
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
 
 

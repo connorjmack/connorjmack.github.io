@@ -2,10 +2,10 @@
 title: "Smart regulations needed for promising marine carbon removal"
 collection: publications
 permalink: /publication/2024-marine-carbon-opinion
-excerpt: 'Opinion piece...'
+excerpt: ''
 date: 2024-08-26
 venue: 'San Diego Union-Tribune'
-category: 'opeds'  # Changed from 'opinion' to 'opeds'
+category: 'opeds'
 paperurl: 'https://www.sandiegouniontribune.com/2024/08/26/opinion-smart-regulations-needed-for-promising-marine-carbon-removal/'
 citation: 'Mack, C. (2024). "Smart regulations needed for promising marine carbon removal." <i>San Diego Union-Tribune</i>. Opinion/Commentary.'
 ---
