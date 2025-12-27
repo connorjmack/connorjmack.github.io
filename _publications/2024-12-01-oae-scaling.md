@@ -5,7 +5,7 @@ permalink: /publication/2024-oae-scalability
 excerpt: ''
 date: 2024-12-01
 venue: 'Nature Communications (Under Review)'
-category: 'preprints'
+category: 'manuscripts'
 paperurl: 'https://doi.org/10.21203/rs.3.rs-7956805/v1'
 citation: 'Mack, C.J., Hanna, R., Faggiani-Dias, D., & Victor, D.G. "The Scalability and Carbon Removal Potential of Ocean Alkalinity Enhancement." <i>Nature Communications</i> (Under Review). Pre-print: doi.org/10.21203/rs.3.rs-7956805/v1'
 ---
