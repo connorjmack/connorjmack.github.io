@@ -9,56 +9,57 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<a href="/files/cjmack_resume.pdf" class="btn btn--primary" download>📄 Download Resume (PDF)</a>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Ph.D. in Oceanography** (In Progress)  
+Scripps Institution of Oceanography, UC San Diego  
+*Focus: Climate change mitigation and marine carbon dioxide removal*
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+## Research Experience
+
+**Graduate Researcher** | Scripps Institution of Oceanography  
+*2022 – Present*  
+- Leading research on scalability of ocean alkalinity enhancement
+- Analyzing governance frameworks for marine carbon removal
+- Developing coastal monitoring methods using LiDAR technology
+
+---
+
+## Skills
+
+**Programming & Data Analysis**
+- Python (NumPy, Pandas, Matplotlib, Xarray)
+- R for statistical analysis
+- Data visualization and scientific computing
+
+**Geospatial & Remote Sensing**
+- LiDAR data processing
+- GIS applications
+- Coastal monitoring techniques
+
+**Research & Communication**
+- Scientific writing and peer review
+- Policy analysis and stakeholder engagement
+- Conference presentations
+
+---
+
+## Publications
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+---
+
+## Presentations
+
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>

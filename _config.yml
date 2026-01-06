@@ -24,11 +24,11 @@ repository               : "connorjmack/connorjmack.github.io"
 author:
   # Biographic information
   avatar           : "profile.png" # filename of avatar image placed in /images/ for author profile
-  name             : "CJM"
+  name             : "Connor J Mack"
   pronouns         : # example: "she/her"  
-  bio              : "Graduate Student"
-  location         : "Earth"
-  employer         : "SIO"
+  bio              : "PhD Candidate studying marine carbon removal & coastal LiDAR monitoring"
+  location         : "San Diego, CA"
+  employer         : "Scripps Institution of Oceanography"
   uri              : # URL
   email            : "cjmack@ucsd.edu" 
 
