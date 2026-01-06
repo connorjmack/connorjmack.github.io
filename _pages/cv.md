@@ -11,6 +11,8 @@ redirect_from:
 
 <a href="/files/cjmack_resume.pdf" class="btn btn--primary" download>📄 Download Resume (PDF)</a>
 
+![Sunset](/images/sunset.png){: .align-center style="max-width: 100%; border-radius: 8px; margin: 20px 0;"}
+
 ---
 
 ## Education
@@ -47,6 +49,16 @@ Scripps Institution of Oceanography, UC San Diego
 - Scientific writing and peer review
 - Policy analysis and stakeholder engagement
 - Conference presentations
+
+---
+
+## Research Interests
+
+- Ocean Alkalinity Enhancement (OAE)
+- Marine Carbon Dioxide Removal (MCDR)
+- Climate Policy
+- Coastal Monitoring
+- Climate Governance
 
 ---
 
