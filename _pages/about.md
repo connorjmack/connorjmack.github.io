@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at **Scripps Institution of Oceanography** at UC San Diego, studying climate change mitigation and marine carbon dioxide removal. My research sits at the intersection of environmental science and policy, focusing on how we can responsibly scale ocean-based climate solutions.
+I am a PhD candidate at Scripps Institution of Oceanography at UC San Diego, building open source tools for problem-solving at the intersection of climate science and policy, with a focus on responsible scaling of climate technologies.
 
 **Note:** This page is under development.
